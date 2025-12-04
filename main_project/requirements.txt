@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+requests
+pydeck
+plotly
+python-dateutil
+scikit-learn
+xgboost
+statsmodels
+prophet
+tensorflow
+matplotlib
+pytz
+joblib
